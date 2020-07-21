@@ -7,7 +7,7 @@
 - Day 3
       [PRISON CELLS AFTER N DAYS](https://codextream.github.io/PRISON-CELLS-AFTER-N-DAYS/)
 - Day 4
-      [UGLY NUMBER II](https://codextream.github.io/UGLY NUMBER II/)
+      [UGLY NUMBER II](https://codextream.github.io/UGLY-NUMBER-II/)
 - Day 5
       [HAMMING DISTANCE](https://codextream.github.io/HAMMING-DISTANCE/)
 - Day 6
