@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<form method="get" action="http://www.google.com/search" target="_blank">
-<input type="hidden" name="sitesearch" value="ibkc-carrosserie.nl" />
-<input type="text" name="q" maxlength="255" placeholder="Search with Google" />
-</form>
 
 {% include 01-name.md %}
 
@@ -20,6 +16,12 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+
+
+<form method="get" action="http://www.google.com/search" target="_blank">
+<input type="hidden" name="sitesearch" value="https://shruti170901.github.io/Leetcode_July/" />
+<input type="text" name="q" maxlength="255" placeholder="Search with Google" />
+</form>
 
 
 
