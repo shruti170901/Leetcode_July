@@ -18,11 +18,6 @@ layout: default
 {% include 05-emphasis.md %}
 
 
-<form method="get" action="http://www.google.com/search" target="_blank">
-<input type="hidden" name="sitesearch" value="shruti170901.github.io/Leetcode_July/" />
-<input type="text" name="q" maxlength="255" placeholder="Search with Google" />
-</form>
-
 
 
 
