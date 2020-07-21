@@ -17,9 +17,13 @@ layout: default
 {% include 05-emphasis.md %}
 
 
-<div class="container">
-	<div class="well" id="searchbox">
-		<input id="search-field" placeholder="Search the Site"/>
-		<ul id="results"></ul>
-	</div>
-</div>
+
+
+<script src="https://raw.githubusercontent.com/DataMcFly/jquery.camelhunter/master/jquery.camelhunter.min.js"></script>
+<script type="text/javascript">
+	$("#search-field").camelHunter({
+		onKeyUp 			: true,
+		rss: "/search.xml",
+		results   : "#results"
+	});
+</script>
