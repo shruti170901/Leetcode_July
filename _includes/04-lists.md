@@ -3,7 +3,7 @@
 - Day 1
       [ARRANGING COINS](https://codextream.github.io/ARRANGING-COINS/)
 - Day 2
-      [BINARY TREE LEVEL ORDER TRAVERSAL II](https://shruti170901.github.io/BINARY-TREE-LEVEL-ORDER-TRAVERSAL-II/)
+      [BINARY TREE LEVEL ORDER TRAVERSAL II](https://codextream.github.io/BINARY-TREE-LEVEL-ORDER-TRAVERSAL-II/)
 - Day 3
       [PRISON CELLS AFTER N DAYS](https://codextream.github.io/PRISON-CELLS-AFTER-N-DAYS/)
 - Day 4
