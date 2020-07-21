@@ -1,7 +1,5 @@
 # The various questions are solved below in cpp
 
-## WEEK 1
-
 - Day 1
       [ARRANGING COINS](https://codextream.github.io/ARRANGING-COINS/)
 - Day 2
@@ -11,13 +9,13 @@
 - Day 4
       [UGLY NUMBER II](https://codextream.github.io/UGLY NUMBER II/)
 - Day 5
-      [PRISON CELLS AFTER N DAYS](https://codextream.github.io/PRISON-CELLS-AFTER-N-DAYS/)
+      [HAMMING DISTANCE](https://codextream.github.io/HAMMING-DISTANCE/)
 - Day 6
-      [PRISON CELLS AFTER N DAYS](https://codextream.github.io/PRISON-CELLS-AFTER-N-DAYS/)
+      [PLUS ONE](https://codextream.github.io/PLUS-ONE/)
 - Day 7
-      [PRISON CELLS AFTER N DAYS](https://codextream.github.io/PRISON-CELLS-AFTER-N-DAYS/)
-     
-- [3 SUM](https://codextream.github.io/3-SUM/)
+      [ISLAND PERIMETER](https://codextream.github.io/ISLAND-PERIMETER/)
+- Day 8
+      [3 SUM](https://codextream.github.io/3-SUM/)
 
 
 
